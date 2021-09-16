@@ -1,6 +1,6 @@
-package org.jetbrains.plugins.template.services
+package com.github.neverwell.plugintest.services
 
-import org.jetbrains.plugins.template.MyBundle
+import com.github.neverwell.plugintest.MyBundle
 
 class MyApplicationService {
 
